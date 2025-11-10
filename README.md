@@ -145,6 +145,11 @@ Minimal logging is included for:
     - Updates order status to PAID or CANCELLED
 4. Customer can check order details including payment status.
 
+---
+
+## Postman Collection URL
+
+https://www.postman.com/malakmsah/workspace/simple-order-system/collection/4768069-35d6494c-a44b-4b37-9c00-ef340c05e9fa?action=share&source=copy-link&creator=4768069
 
 --- 
 
